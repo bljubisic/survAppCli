@@ -30,7 +30,9 @@
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
 		"vite": "^4.4.2",
-		"vitest": "^0.32.2"
+		"vitest": "^0.32.2",
+		"unified": "^8.4.2",
+		"remark-parse": "^7.0.2"
 	},
 	"type": "module"
 }
