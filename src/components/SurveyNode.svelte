@@ -61,6 +61,7 @@
 	 */
   let cond = null;
   if (node.condition) {
+    // @ts-ignore
     cond = createFunction(node.condition.expr);
   }
 
